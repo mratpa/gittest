@@ -1,6 +1,10 @@
 my first line 
 second line line
 third line
+<<<<<<< HEAD
 4th line 
 5th line 
 6
+=======
+4th line
+>>>>>>> parent of 028e0a0... 5th line
